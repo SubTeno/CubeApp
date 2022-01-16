@@ -15,7 +15,6 @@ public class CubeApp {
         Cube c = new Cube(1);
         System.out.println("Diagonal : "+c.diagonal());
         System.out.println("Volume : "+c.volume());
-        System.out.println("Surface Area : "+c.surfacearea());
     }
 }
 
